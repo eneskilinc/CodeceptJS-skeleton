@@ -5,9 +5,10 @@ This repostory consists of the skeleton of codeceptJS for Software Automation En
 in /tests folder, there are three scenarios in http://automationpractice.com/ website.
 
 Requirements and terminal commands:
- node.js must be installed.
- Chrome Browser must be installed.
- Visual Studio Code is recommended as editor
+node.js must be installed.
+Chrome Browser must be installed.
+Visual Studio Code is recommended as editor
+
 npm init -y
 npm install codeceptjs puppeteer
 npx codeceptjs init
