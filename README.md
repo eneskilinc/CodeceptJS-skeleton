@@ -7,7 +7,7 @@ in /tests folder, there are three scenarios in http://automationpractice.com/ we
 # Requirements and terminal commands:
 node.js must be installed.
 Chrome Browser must be installed.
-Visual Studio Code is recommended as editor
+Visual Studio Code is recommended as editor.
 
 1. npm init -y
 2. npm install codeceptjs puppeteer
