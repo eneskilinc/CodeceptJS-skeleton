@@ -9,10 +9,10 @@ node.js must be installed.
 Chrome Browser must be installed.
 Visual Studio Code is recommended as editor
 
-npm init -y
-npm install codeceptjs puppeteer
-npx codeceptjs init
-npx codeceptjs run
+1. npm init -y
+2. npm install codeceptjs puppeteer
+3. npx codeceptjs init
+4. npx codeceptjs run
 
 # 1login_test.js ==> to Login
 1. Go to “automationpractice.com”.
